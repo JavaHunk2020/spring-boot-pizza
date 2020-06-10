@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: nagendra
+Build-Jdk: 11.0.3
+Implementation-Title: pizza-store-boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.pizza
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/pizza-store-boot
+Created-By: Maven Integration for Eclipse
+
